@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "conscious-breathing.jpg.21bf8e2f1016740f0e9fd49650654a93.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
